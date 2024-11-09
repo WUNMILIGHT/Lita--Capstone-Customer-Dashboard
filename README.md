@@ -9,7 +9,7 @@ CONTENT
  Region-wise Customers Performance
 
 OVERVIEW
-This repository contains data and insights on our company's customer performance, providing a comprehensive view of our sales metrics and trends and also to know the fast moving subscription
+This repository contains data and insights on our company's customer performance, providing a comprehensive view of our customers metrics and trends and also to know the fast moving subscription
 
 DATA ANALYSIS TOOLS
 Microsoft Excel
